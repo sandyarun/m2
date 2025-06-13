@@ -49,7 +49,7 @@ A new user account will be created.
 Select option 1 from the main menu.
 Enter your registered ID and email.
 If your credentials are valid:
-If your email is one of the admin_emails (currently arunsan2012@gmail.com or arunsan.v@tcs.com), you will access the Admin Menu.
+If your email is one of the admin_emails (currently arunsan2012@gmail.com), you will access the Admin Menu.
 Otherwise, you will access the User Menu.
 3. Exiting the Application
 Select option 3 from the main menu to exit the application.
