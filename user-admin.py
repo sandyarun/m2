@@ -10,7 +10,7 @@ def menu():
     print("3. Exit Airlines")
     print("---------------------------------------------")
 
-admin_emails=["arunsan2012@gmail.com","arunsan.v@tcs.com"]
+admin_emails=["arunsan2012@gmail.com"]
 
 cur.execute('''create table if not exists user(
         name text not null,
